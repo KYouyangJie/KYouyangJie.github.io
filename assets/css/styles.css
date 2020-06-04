@@ -158,6 +158,7 @@ a.btn:hover {
   height: 160px;
   top: -80px;
   margin-left: -80px;
+  border-radius: 50%;
 }
 .header .name {
   font-size: 48px;
