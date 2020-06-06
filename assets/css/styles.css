@@ -614,7 +614,7 @@ a.btn:hover {
   color: #666;
 }
 .contact-section .intro .profile-image {
-  width: 120px;
+	top:5%;
   height: 120px;
   position: absolute;
   left: 30px;
